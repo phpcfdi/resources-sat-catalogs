@@ -41,7 +41,7 @@ SQLite3 tiene tres ventajas importantes: la base de datos es un archivo y no req
 
 Las actualizaciones al repositorio pueden ser consultadas en el archivo [`CHANGELOG`](./CHANGELOG.md).
 
-El proceso de actualización es automático y se genera gracias al programa [`phpcfd/sat-catalogos-populate`](https://github.com/phpcfdi/sat-catalogos-populate) para poder descargar los archivos de catálogos y convertirlos a una base de datos SQLite3. Una vez creada la base de datos a través de un script se generan los archivos SQL.
+El proceso de actualización es automático y se genera gracias al programa [`phpcfdi/sat-catalogos-populate`](https://github.com/phpcfdi/sat-catalogos-populate) para poder descargar los archivos de catálogos y convertirlos a una base de datos SQLite3. Una vez creada la base de datos a través de un script se generan los archivos SQL.
 
 En caso de encontrar que el repositorio no está actualizado, por favor genera un `Issue` en este repositorio, explicando qué archivo falta o sobra o contiene datos no actualizados.
 
