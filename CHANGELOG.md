@@ -7,3 +7,7 @@ Las modificaciones automáticas deben contener el título: `## <fecha-aaaa-mm-dd
 ## 2020-07-03 Primera liberación
 
 Esta versión fue generada manualmente y se espera que en lo sucesivo sea utilizando una actualización automática. La información fue generada utilizando `phpcfdi/sat-catalogos-populate:v1.1.0` y desintegrando la base de datos en archivos SQL.
+
+## 2020-07-08 phpcfdi/sat-catalogos-populate:v1.1.0 
+
+Actualización automática con fecha mié jul  8 00:28:44 CDT 2020
