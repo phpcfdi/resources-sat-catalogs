@@ -11,3 +11,7 @@ Esta versión fue generada manualmente y se espera que en lo sucesivo sea utiliz
 ## 2020-07-08 phpcfdi/sat-catalogos-populate:v1.1.0 
 
 Actualización automática con fecha mié jul  8 00:28:44 CDT 2020
+
+## 2020-07-21 phpcfdi/sat-catalogos-populate:v1.1.0 
+
+Actualización automática con fecha Tue 21 Jul 2020 03:05:46 PM CDT
