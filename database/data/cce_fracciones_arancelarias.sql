@@ -12275,6 +12275,7 @@ INSERT INTO cce_fracciones_arancelarias VALUES('87029003','Con carrocería integ
 INSERT INTO cce_fracciones_arancelarias VALUES('87029004','Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería montada sobre chasis, excepto lo comprendido en la fracción 8702.90.06.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87029005','Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería integral, excepto lo comprendido en la fracción 8702.90.06.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87029006','Usados, excepto lo comprendido en la fracción 8702.90.01.','2009-01-01','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('87029007','Eléctricos, excepto usados.','2020-09-04','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87031001','Con motor eléctrico, excepto los comprendidos en las fracciones 8703.10.02 y 8703.10.03.','2010-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87031002','Vehículos especiales para el transporte de personas en terrenos de golf.','2010-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87031003','Derogada','2007-07-01','2008-12-24','N/A');
@@ -12294,8 +12295,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES('87033201','De cilindrada superio
 INSERT INTO cce_fracciones_arancelarias VALUES('87033202','Usados.','2010-08-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87033301','De cilindrada superior a 2,500 cm3, excepto lo comprendido en la fracción 8703.33.02.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87033302','Usados.','2010-08-01','','06');
-INSERT INTO cce_fracciones_arancelarias VALUES('87039001','Eléctricos.','2010-01-01','','06');
-INSERT INTO cce_fracciones_arancelarias VALUES('87039002','Usados, excepto lo comprendido en la fracción 8703.90.01.','2010-08-01','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('87039001','Eléctricos, excepto usados.','2010-01-01','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('87039002','Usados, excepto eléctricos.','2010-08-01','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('87039003','Eléctricos usados.','2020-09-04','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87039099','Los demás.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87041001','Tipo “Dumpers” con capacidad útil de carga superior a 30,000 kg.','2010-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87041099','Los demás.','2010-01-01','','06');
@@ -12329,7 +12331,7 @@ INSERT INTO cce_fracciones_arancelarias VALUES('87043205','De peso total con car
 INSERT INTO cce_fracciones_arancelarias VALUES('87043206','De peso total con carga máxima superior a 11,793 kg, pero inferior o igual a 14,968 kg, excepto lo comprendido en la fracción 8704.32.07.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87043207','Usados, excepto lo comprendido en la fracción 8704.32.01.','2009-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87043299','Los demás.','2012-01-01','','06');
-INSERT INTO cce_fracciones_arancelarias VALUES('87049001','Con motor eléctrico.','2010-01-01','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('87049001','Eléctricos, excepto usados.','2010-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87049099','Los demás.','2010-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87051001','Camiones-grúa.','2010-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87052001','Con equipos hidráulicos de perforación destinados a programas de abastecimiento de agua potable en el medio rural.','2010-01-01','','06');
