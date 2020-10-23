@@ -12269,13 +12269,14 @@ INSERT INTO cce_fracciones_arancelarias VALUES('87021002','Con carrocería integ
 INSERT INTO cce_fracciones_arancelarias VALUES('87021003','Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería montada sobre chasis, excepto lo comprendido en la fracción 8702.10.05.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87021004','Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería integral, excepto lo comprendido en la fracción 8702.10.05.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87021005','Usados.','2009-01-01','','06');
-INSERT INTO cce_fracciones_arancelarias VALUES('87029001','Trolebuses.','2010-01-01','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('87029001','Trolebuses, excepto usados.','2010-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87029002','Con carrocería montada sobre chasis, excepto locomprendido en las fracciones 8702.90.04 y 8702.90.06.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87029003','Con carrocería integral, excepto lo comprendido en las fracciones 8702.90.05 y 8702.90.06.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87029004','Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería montada sobre chasis, excepto lo comprendido en la fracción 8702.90.06.','2012-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87029005','Para el transporte de 16 o más personas, incluyendo el conductor, con carrocería integral, excepto lo comprendido en la fracción 8702.90.06.','2012-01-01','','06');
-INSERT INTO cce_fracciones_arancelarias VALUES('87029006','Usados, excepto lo comprendido en la fracción 8702.90.01.','2009-01-01','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('87029006','Usados, excepto lo comprendido en las fracciones arancelarias 8702.90.01 y 8702.90.08.','2009-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87029007','Eléctricos, excepto usados.','2020-09-04','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('87029008','Trolebuses usados.','2020-10-23','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87031001','Con motor eléctrico, excepto los comprendidos en las fracciones 8703.10.02 y 8703.10.03.','2010-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87031002','Vehículos especiales para el transporte de personas en terrenos de golf.','2010-01-01','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('87031003','Derogada','2007-07-01','2008-12-24','N/A');
