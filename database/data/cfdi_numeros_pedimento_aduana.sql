@@ -27676,6 +27676,7 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('51','0973',2017,999999,'2017-1
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('51','0973',2018,999999,'2018-01-03','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('51','0973',2019,999999,'2019-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('51','0973',2020,999999,'2020-01-01','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('51','1068',2020,999999,'2020-11-27','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('51','1370',2013,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('51','1370',2014,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('51','1370',2015,999999,'2017-01-01','');
