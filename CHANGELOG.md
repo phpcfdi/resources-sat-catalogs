@@ -63,3 +63,7 @@ Actualización automática con fecha Tue 24 Nov 2020 09:11:36 PM CST
 ## 2020-11-30 phpcfdi/sat-catalogos-populate:v1.1.0 
 
 Actualización automática con fecha Mon 30 Nov 2020 03:05:23 PM CST
+
+## 2020-12-04 phpcfdi/sat-catalogos-populate:v1.1.0 
+
+Actualización automática con fecha Fri 04 Dec 2020 03:05:27 PM CST
