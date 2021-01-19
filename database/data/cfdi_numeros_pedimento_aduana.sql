@@ -2900,6 +2900,8 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1550',2018,999999,'2018-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1550',2019,999999,'2019-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1550',2020,999999,'2020-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1550',2021,999999,'2021-01-01','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1556',2020,999999,'2021-01-22','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1556',2021,999999,'2021-01-22','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1562',2017,999999,'2017-12-22','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1562',2018,999999,'2018-01-03','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1562',2019,999999,'2019-01-01','');
@@ -5972,6 +5974,7 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('17','1637',2018,999999,'2018-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('17','1637',2019,999999,'2019-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('17','1637',2020,999999,'2020-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('17','1637',2021,999999,'2021-01-01','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('17','1675',2021,999999,'2021-01-22','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('17','1699',2015,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('17','1699',2016,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('17','1699',2017,999999,'2017-04-28','');
