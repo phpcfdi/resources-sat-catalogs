@@ -16284,6 +16284,7 @@ INSERT INTO cce_fracciones_arancelarias VALUES('3002200600','Vacuna antihepatiti
 INSERT INTO cce_fracciones_arancelarias VALUES('3002200700','Vacuna contra la haemophilus tipo "B".','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('3002200800','Vacuna antineumococica polivalente.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('3002200900','Vacuna contra el sarampión, paroditis y rubeóla.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('3002201000','Vacuna contra el virus SARS-CoV-2.','2021-02-24','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('3002209901','Vacunas  microbianas  para  uso  humano,  excepto  lo  especificado  en  el  número  de  identificación comercial 3002.20.99.02.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('3002209902','Vacuna contra la poliomielitis; vacuna triple (antidiftérica, antitetánica y anticoqueluche).','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('3002209903','Toxoide tetánico, diftérico y pertúsico con hidróxido de aluminio.','2020-12-28','','01');
@@ -20936,7 +20937,9 @@ INSERT INTO cce_fracciones_arancelarias VALUES('7611000100','Depósitos,   ciste
 INSERT INTO cce_fracciones_arancelarias VALUES('7612100100','Envases tubulares flexibles.','2020-12-28','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('7612900100','Reconocibles como concebidos exclusivamente para el transporte y conservación de semen para animales y las demás muestras biológicas.','2020-12-28','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('7612909900','Los demás.','2020-12-28','','06');
-INSERT INTO cce_fracciones_arancelarias VALUES('7613000100','Recipientes para gas comprimido o licuado, de aluminio.','2020-12-28','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('7613000100','SUPRIMIDA','2020-12-28','2021-02-23','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('7613000200','Tanques para oxígeno de uso medicinal.','2021-02-24','','06');
+INSERT INTO cce_fracciones_arancelarias VALUES('7613009900','Los demás.','2021-02-24','','06');
 INSERT INTO cce_fracciones_arancelarias VALUES('7614100101','Cable de aluminio reforzado con acero recubierto con aluminio (Por ejemplo: Cable "ACSR/AW").','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7614100191','Los demás cables ACSR.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7614100199','Los demás.','2020-12-28','','01');
