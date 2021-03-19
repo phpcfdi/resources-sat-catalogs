@@ -36,8 +36,8 @@ INSERT INTO nomina_tipos_percepciones VALUES('038','Otros ingresos por salarios'
 INSERT INTO nomina_tipos_percepciones VALUES('039','Jubilaciones, pensiones o haberes de retiro','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('044','Jubilaciones, pensiones o haberes de retiro en parcialidades','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('045','Ingresos en acciones o títulos valor que representan bienes','2016-11-01','');
-INSERT INTO nomina_tipos_percepciones VALUES(' 046','Ingresos asimilados a salarios','2016-11-01','');
-INSERT INTO nomina_tipos_percepciones VALUES(' 047','Alimentación diferentes a los establecidos en el Art 94 último párrafo LISR','2016-11-01','');
+INSERT INTO nomina_tipos_percepciones VALUES('046','Ingresos asimilados a salarios','2016-11-01','');
+INSERT INTO nomina_tipos_percepciones VALUES('047','Alimentación diferentes a los establecidos en el Art 94 último párrafo LISR','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('048','Habitación','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('049','Premios por asistencia','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('050','Viáticos','2017-01-06','');
