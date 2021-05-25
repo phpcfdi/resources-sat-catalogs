@@ -1856,7 +1856,7 @@ INSERT INTO cfdi_claves_unidades VALUES('PI','Tono','Unidade de conteo que defin
 INSERT INTO cfdi_claves_unidades VALUES('PLA','Grado de platón','Unidad de proporción que define el contenido de azúcar de un producto, especialmente en relación con la cerveza','','2017-01-01','','°P');
 INSERT INTO cfdi_claves_unidades VALUES('PM','Porcentaje de libra','','Las unidades marcadas como borradas en el catálogo internacional de UNECE, serán retenidas indefinidamente en las listas de códigos. En su caso, estas unidades podrán ser reinstalado a través del proceso de mantenimiento.','2017-08-13','','');
 INSERT INTO cfdi_claves_unidades VALUES('PO','Libra por pulgada','','','2017-01-01','','lb/in');
-INSERT INTO cfdi_claves_unidades VALUES('PQ','Página por pulgada','Unidad de cantidad que define el grado de espesor de una publicación enlazada, expresada como el número de de páginas por pulgada de espesor.','','2017-01-01','','ppi');
+INSERT INTO cfdi_claves_unidades VALUES('PQ','Página por pulgada','Unidad de cantidad que define el grado de espesor de una publicación enlazada, expresada como el número de páginas por pulgada de espesor.','','2017-01-01','','ppi');
 INSERT INTO cfdi_claves_unidades VALUES('PR','Par','Unidad de conteo que define el número de pares (par: descripción por 2)','','2017-01-01','','');
 INSERT INTO cfdi_claves_unidades VALUES('PS','Libra fuerza por pulgada cuadrada','','','2017-01-01','','lbf/in²');
 INSERT INTO cfdi_claves_unidades VALUES('PT','Pinta (US)','Utilice pinta líquida (código común PTL)','Unidades no recomendadas para su uso por la Oficina Internacional de Pesos y Medidas (BIPM) con sede en Francia.','2017-08-13','','Pt (US)');
