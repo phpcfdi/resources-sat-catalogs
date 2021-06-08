@@ -2868,6 +2868,7 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('14','9022',2014,999999,'2017-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('14','9022',2015,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','0574',2007,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','0574',2008,999999,'2017-01-01','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1029',2021,999999,'2021-06-11','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1031',2012,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1031',2013,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1031',2014,999999,'2017-01-01','');
@@ -3287,6 +3288,7 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1810',2021,999999,'2021-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1816',2021,999999,'2021-04-16','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1818',2021,999999,'2021-04-09','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1821',2021,999999,'2021-03-26','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1822',2021,999999,'2021-06-11','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1826',2021,999999,'2021-05-14','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1844',2021,999999,'2021-05-28','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('16','1850',2021,999999,'2021-05-28','');
@@ -10564,9 +10566,11 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1812',2021,999999,'2021-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1817',2020,999999,'2020-01-22','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1817',2021,999999,'2021-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1820',2021,999999,'2021-04-09','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1822',2021,999999,'2021-06-11','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1827',2021,999999,'2021-05-14','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1829',2021,999999,'2021-03-26','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1832',2021,999999,'2021-04-30','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1842',2021,999999,'2021-06-11','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','1844',2021,999999,'2021-05-14','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','3003',2007,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('24','3003',2008,999999,'2017-01-01','');
@@ -25674,6 +25678,7 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('47','1820',2021,999999,'2021-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('47','1823',2021,999999,'2021-04-16','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('47','1840',2021,999999,'2021-04-09','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('47','1843',2021,999999,'2021-04-16','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('47','1848',2021,999999,'2021-06-11','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('47','1849',2021,999999,'2021-05-14','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('47','1850',2021,999999,'2021-05-28','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('47','1852',2021,999999,'2021-04-16','');
@@ -29579,6 +29584,7 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('48','3503',2018,999999,'2018-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('48','3503',2019,999999,'2019-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('48','3503',2020,999999,'2020-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('48','3503',2021,999999,'2021-01-01','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('48','3504',2021,999999,'2021-06-11','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('48','3509',2014,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('48','3514',2010,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('48','3517',2011,999999,'2017-01-01','');
@@ -32127,6 +32133,7 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('52','3914',2013,999999,'2017-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('52','3914',2014,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('52','3914',2015,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('52','3914',2016,999999,'2017-01-01','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('52','3923',2021,999999,'2021-06-11','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('52','3929',2016,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('52','3929',2017,999999,'2017-04-28','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('52','3929',2018,999999,'2018-01-03','');
@@ -35700,6 +35707,8 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('80','1803',2021,999999,'2021-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('80','1820',2021,999999,'2021-04-30','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('80','1822',2021,999999,'2021-05-14','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('80','1832',2021,999999,'2021-04-30','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('80','1841',2021,999999,'2021-06-11','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('80','1842',2021,999999,'2021-06-11','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('80','1844',2021,999999,'2021-05-14','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('80','3012',2007,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('80','3012',2008,999999,'2017-01-01','');
@@ -40419,4 +40428,5 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('84','9037',2018,999999,'2018-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('84','9037',2019,999999,'2019-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('84','9037',2020,999999,'2020-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('84','9037',2021,999999,'2021-01-01','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('84','9044',2021,999999,'2021-06-11','');
 COMMIT;
