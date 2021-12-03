@@ -14608,8 +14608,8 @@ INSERT INTO cce_fracciones_arancelarias VALUES('1702300100','Glucosa  y  jarabe 
 INSERT INTO cce_fracciones_arancelarias VALUES('1702400100','Glucosa.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('1702409900','Los demás.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('1702500100','Fructosa químicamente pura.','2020-12-28','','01');
-INSERT INTO cce_fracciones_arancelarias VALUES('1702600301','Las  demás  fructosas  y  jarabe  de  fructosa,  con  un  contenido  de  fructosa,  sobre  producto  seco, superior al 50% pero inferior o igual al 60%, en peso.','2020-12-28','','01');
-INSERT INTO cce_fracciones_arancelarias VALUES('1702600302','Las  demás  fructosas  y  jarabe  de  fructosa,  con  un  contenido  de  fructosa,  sobre  producto  seco, superior al 60% pero inferior o igual al 80%, en peso.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('1702600301','Las  demás  fructosas  y  jarabe  de  fructosa,  con  un  contenido  de  fructosa,  sobre  producto  seco, superior al 50% pero inferior o igual al 60%, en peso.','2020-12-28','2021-12-03','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('1702600302','Las  demás  fructosas  y  jarabe  de  fructosa,  con  un  contenido  de  fructosa,  sobre  producto  seco, superior al 60% pero inferior o igual al 80%, en peso.','2020-12-28','2021-12-03','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('1702600303','De maiz, con un contenido de fructuosa, sobre producto seco, superior al 50% pero inferior o igual al 60%, en peso.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('1702600304','De agave, con un contenido de fructuosa, sobre producto seco, superior al 50% pero inferior o igual al 60%, en peso.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('1702600305','De agave, con un contenido de fructuosa, sobre producto seco, superior al 60% pero inferior o igual al 80%, en peso.','2020-12-28','','01');
@@ -20327,6 +20327,7 @@ INSERT INTO cce_fracciones_arancelarias VALUES('7225300704','Con  un  contenido 
 INSERT INTO cce_fracciones_arancelarias VALUES('7225300705','De acero rápido.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225300706','De acero grado herramienta, excepto de acero rápido.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225300707','Decapados, con un contenido de boro igual o superior a 0.0008%.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('7225300708','Decapados de espesor superior o igual a 4.75 mm, excepto lo comprendido en el número de identificación comercial 7225.30.07.07.','2021-12-03','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225300791','Los demás decapados.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225300792','Los demás de espesor inferior a 4.75 mm.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225300799','Los demás.','2020-12-28','','01');
@@ -20349,9 +20350,10 @@ INSERT INTO cce_fracciones_arancelarias VALUES('7225500706','Con un contenido de
 INSERT INTO cce_fracciones_arancelarias VALUES('7225500707','Con un contenido de boro igual o superior a 0.0008%, y espesor superior o igual a 4.75 mm, sin enrollar, excepto de acero grado herramienta.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225500708','De acero rápido.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225500709','De acero grado herramienta.','2020-12-28','','01');
-INSERT INTO cce_fracciones_arancelarias VALUES('7225500710','De acero para porcelanizar.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('7225500710','De acero para porcelanizar, de espesor superior o igual a 4.75 mm.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225500711','De acero de alta resistencia.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225500791','Los demás de espesor superior o igual a 4.75 mm.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('7225500792','Los demás de acero para porcelanizar.','2021-12-03','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225500799','Los demás.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225910100','Cincados electrolíticamente.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7225920101','De acero de alta resistencia.','2020-12-28','','01');
@@ -20595,7 +20597,8 @@ INSERT INTO cce_fracciones_arancelarias VALUES('7306509902','Tubería cónica y 
 INSERT INTO cce_fracciones_arancelarias VALUES('7306509999','Los demás.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7306610101','Con un espesor de pared superior o igual a 4 mm.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7306610102','Con un espesor de pared inferior a 4 mm, de acero inoxidable.','2020-12-28','','01');
-INSERT INTO cce_fracciones_arancelarias VALUES('7306610103','Galvanizados.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('7306610103','Galvanizados, con un espesor de pared superior o igual a 4 mm.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('7306610191','Los demás galvanizados.','2021-12-03','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7306610199','Los demás.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7306699901','Con un espesor de pared superior o igual a 4 mm.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('7306699902','Con un espesor de pared inferior a 4 mm, de acero inoxidable.','2020-12-28','','01');
@@ -23335,7 +23338,7 @@ INSERT INTO cce_fracciones_arancelarias VALUES('8541210100','Con una capacidad d
 INSERT INTO cce_fracciones_arancelarias VALUES('8541299900','Los demás.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8541300101','Tiristores  unidireccionales  o  bidireccionales  (triacs),  encapsulados  en  plástico,  de  hasta  40 amperes.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8541300199','Los demás.','2020-12-28','','01');
-INSERT INTO cce_fracciones_arancelarias VALUES('8541400401','Dispositivos   semiconductores   fotosensibles,   excepto   los   comprendidos   en   los   números   de identificación comercial 8541.40.01.02 y 8541.40.01.03.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('8541400401','Dispositivos semiconductores fotosensibles, excepto los comprendidos en los números de identificación comercial 8541.40.04.02 y 8541.40.04.03.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8541400402','Células solares fotovoltaicas, incluso ensambladas en módulos o paneles.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8541400403','Diodos emisores de luz (LED).','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8541500100','Los demás dispositivos semiconductores.','2020-12-28','','01');
@@ -23388,8 +23391,8 @@ INSERT INTO cce_fracciones_arancelarias VALUES('8544429901','Formas de cables co
 INSERT INTO cce_fracciones_arancelarias VALUES('8544429902','Cables termopar o sus cables de extensión.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544429903','Arneses  y  cables  eléctricos,  para  conducción  o  distribución  de  corriente  eléctrica  en  aparatos electrodomésticos o de medición.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544429904','De  cobre,  aluminio  o  sus  aleaciones,  excepto  lo  comprendido  en  los  números  de  identificación comercial 8544.42.99.01 y 8544.42.99.03.','2020-12-28','','01');
-INSERT INTO cce_fracciones_arancelarias VALUES('8544429905','De cobre.','2020-12-28','','01');
-INSERT INTO cce_fracciones_arancelarias VALUES('8544429906','De aluminio o sus aleaciones.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('8544429905','De cobre.','2020-12-28','2021-12-03','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('8544429906','De aluminio o sus aleaciones.','2020-12-28','2021-12-03','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544429999','Los demás.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544490500','Reconocibles para naves aéreas.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544499901','Formas de cables cortados y atados (arneses), para la conexión de centrales telefónicas.','2020-12-28','','01');
@@ -23397,7 +23400,7 @@ INSERT INTO cce_fracciones_arancelarias VALUES('8544499902','Cables termopar o s
 INSERT INTO cce_fracciones_arancelarias VALUES('8544499903','Cables    eléctricos,    para    conducción    o    distribución    de    corriente    eléctrica    en    aparatos electrodomésticos o de medición.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544499904','De  cobre,  aluminio  o  sus  aleaciones,  excepto  lo  comprendido  en  los  números  de  identificación comercial 8544.49.99.01 y 8544.49.99.03.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544499905','Cables de cobre, para conducción de corriente eléctrica en sistemas de distribución de baja tensión e iluminación, de los utilizados en construcción.','2020-12-28','','01');
-INSERT INTO cce_fracciones_arancelarias VALUES('8544499991','Las demás de cobre.','2020-12-28','','01');
+INSERT INTO cce_fracciones_arancelarias VALUES('8544499991','Las demás de cobre.','2020-12-28','2021-12-03','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544499999','Los demás.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544600201','De cobre, aluminio o sus aleaciones.','2020-12-28','','01');
 INSERT INTO cce_fracciones_arancelarias VALUES('8544600202','De cobre, para una tensión inferior o igual a 35,000 Voltios.','2020-12-28','','01');
