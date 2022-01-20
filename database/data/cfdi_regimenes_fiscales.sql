@@ -13,7 +13,7 @@ INSERT INTO cfdi_regimenes_fiscales VALUES('614','Ingresos por intereses',1,'','
 INSERT INTO cfdi_regimenes_fiscales VALUES('616','Sin obligaciones fiscales',1,'','2016-11-12','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('620','Sociedades Cooperativas de Producción que optan por diferir sus ingresos','',1,'2016-11-12','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('621','Incorporación Fiscal',1,'','2016-11-12','');
-INSERT INTO cfdi_regimenes_fiscales VALUES('622','Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras',1,1,'2016-11-12','');
+INSERT INTO cfdi_regimenes_fiscales VALUES('622','Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras','',1,'2016-11-12','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('623','Opcional para Grupos de Sociedades','',1,'2016-11-12','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('624','Coordinados','',1,'2016-11-12','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('628','Hidrocarburos','',1,'2024-01-01','');
@@ -22,4 +22,5 @@ INSERT INTO cfdi_regimenes_fiscales VALUES('629','De los Regímenes Fiscales Pre
 INSERT INTO cfdi_regimenes_fiscales VALUES('630','Enajenación de acciones en bolsa de valores',1,'','2024-01-01','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('615','Régimen de los ingresos por obtención de premios',1,'','2016-11-12','');
 INSERT INTO cfdi_regimenes_fiscales VALUES('625','Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas',1,'','2020-06-01','');
+INSERT INTO cfdi_regimenes_fiscales VALUES('626','Régimen Simplificado de Confianza',1,1,'2022-01-01','');
 COMMIT;

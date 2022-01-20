@@ -7,6 +7,6 @@ INSERT INTO cfdi_tipos_relaciones VALUES('04','Sustitución de los CFDI previos'
 INSERT INTO cfdi_tipos_relaciones VALUES('05','Traslados de mercancias facturados previamente','2017-01-01','');
 INSERT INTO cfdi_tipos_relaciones VALUES('06','Factura generada por los traslados previos','2017-01-01','');
 INSERT INTO cfdi_tipos_relaciones VALUES('07','CFDI por aplicación de anticipo','2017-08-13','');
-INSERT INTO cfdi_tipos_relaciones VALUES('08','Factura generada por pagos en parcialidades','2017-12-05','');
-INSERT INTO cfdi_tipos_relaciones VALUES('09','Factura generada por pagos diferidos','2017-12-05','');
+INSERT INTO cfdi_tipos_relaciones VALUES('08','Factura generada por pagos en parcialidades','2017-12-05','2022-04-30');
+INSERT INTO cfdi_tipos_relaciones VALUES('09','Factura generada por pagos diferidos','2017-12-05','2022-04-30');
 COMMIT;

@@ -1,10 +1,10 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
-INSERT INTO cfdi_usos_cfdi VALUES('G01','Adquisición de mercancias',1,1,'2017-01-01','');
+INSERT INTO cfdi_usos_cfdi VALUES('G01','Adquisición de mercancías',1,1,'2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('G02','Devoluciones, descuentos o bonificaciones',1,1,'2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('G03','Gastos en general',1,1,'2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('I01','Construcciones',1,1,'2017-01-01','');
-INSERT INTO cfdi_usos_cfdi VALUES('I02','Mobilario y equipo de oficina por inversiones',1,1,'2017-01-01','');
+INSERT INTO cfdi_usos_cfdi VALUES('I02','Mobiliario y equipo de oficina por inversiones',1,1,'2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('I03','Equipo de transporte',1,1,'2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('I04','Equipo de computo y accesorios',1,1,'2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('I05','Dados, troqueles, moldes, matrices y herramental',1,1,'2017-01-01','');
@@ -21,5 +21,5 @@ INSERT INTO cfdi_usos_cfdi VALUES('D07','Primas por seguros de gastos médicos.'
 INSERT INTO cfdi_usos_cfdi VALUES('D08','Gastos de transportación escolar obligatoria.',1,'','2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('D09','Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.',1,'','2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('D10','Pagos por servicios educativos (colegiaturas)',1,'','2017-01-01','');
-INSERT INTO cfdi_usos_cfdi VALUES('P01','Por definir',1,1,'2017-03-31','');
+INSERT INTO cfdi_usos_cfdi VALUES('P01','Por definir',1,1,'2017-03-31','2022-04-30');
 COMMIT;

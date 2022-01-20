@@ -17,6 +17,6 @@ INSERT INTO cfdi_reglas_tasa_cuota VALUES('Fijo','','0.070000','IEPS','Tasa',1,1
 INSERT INTO cfdi_reglas_tasa_cuota VALUES('Fijo','','0.060000','IEPS','Tasa',1,1,'2017-01-01','');
 INSERT INTO cfdi_reglas_tasa_cuota VALUES('Fijo','','0.030000','IEPS','Tasa',1,'','2017-01-01','');
 INSERT INTO cfdi_reglas_tasa_cuota VALUES('Fijo','','0.000000','IEPS','Tasa',1,'','2017-01-01','');
-INSERT INTO cfdi_reglas_tasa_cuota VALUES('Rango','0.000000','55.085200','IEPS','Cuota',1,1,'2021-01-01','');
+INSERT INTO cfdi_reglas_tasa_cuota VALUES('Rango','0.000000','59.144900','IEPS','Cuota',1,1,'2022-01-01','');
 INSERT INTO cfdi_reglas_tasa_cuota VALUES('Rango','0.000000','0.350000','ISR','Tasa','',1,'2017-01-01','');
 COMMIT;
