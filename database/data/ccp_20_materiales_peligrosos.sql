@@ -1,7 +1,7 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0004','PICRATO DE AMONIO seco o humedecido con menos de 10%, en masa, de agua','1.1D','','','2021-12-01','');
-INSERT INTO ccp_20_materiales_peligrosos VALUES('0005','CARTUCHOS PARA ARMAS, con carga explosiva','1.1F','','','2021-12-01','');
+INSERT INTO ccp_20_materiales_peligrosos VALUES('0005','Perros','1.1F','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0006','CARTUCHOS PARA ARMAS, con carga explosiva','1.1E','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0007','CARTUCHOS PARA ARMAS, con carga explosiva','1.2F','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0009','MUNICIONES INCENDIARIAS con o sin carga detonante, carga expulsora o carga propulsora','1.2G','','','2021-12-01','');
@@ -1083,6 +1083,7 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES('1895','NITRATO FENILMERCURICO',
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1897','TETRACLOROETILENO','6.1','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1898','YODURO DE ACETILO','8','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1902','FOSFATO ACIDO DE DIISOOCTILO','8','','','2021-12-01','');
+INSERT INTO ccp_20_materiales_peligrosos VALUES('1903','DESINFECTANTE LIQUIDO CORROSIVO, N.E.P.','8','','','2022-04-05','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1905','ACIDO SELENICO','8','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1906','LODOS ACIDOS','8','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('1907','CAL SODADA con más de 4% de hidróxido SODIO','8','','','2021-12-01','');
@@ -1194,6 +1195,7 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES('2038','DINITROTOLUENOS LIQUIDOS
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2044','2,2-DIMETILPROPANO diferente del pentano y del isopentano','2.1','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2045','ISOBUTIRALDEHIDO (ALDEHIDO ISOBUTILICO)','3','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2046','CIMENOS','3','','','2021-12-01','');
+INSERT INTO ccp_20_materiales_peligrosos VALUES('2047','DICLOROPROPENOS','3','','','2022-04-05','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2048','DICICLOPENTADIENO','3','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2049','DIETILBENCENO','3','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2050','DIISOBUTILENO, COMPUESTOS ISOMERICOS DEL','3','','','2021-12-01','');
@@ -1772,6 +1774,7 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES('2865','SULFATO DE HIDROXILAMINA
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2869','MEZCLAS DE TRICLORURO DE TITANIO','8','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2870','BOROHIDRURO DE ALUMINIO','4.2','4.3','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2870','BOROHIDRURO DE ALUMINIO, BOROHIDRURO DE ALUMINIO EN DISPOSITIVOS','4.2','4.3','','2021-12-01','');
+INSERT INTO ccp_20_materiales_peligrosos VALUES('2871','ANTIMONIO EN POLVO','6.1','','','2022-04-05','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2872','DIBROMOCLOROPROPANOS','6.1','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2873','DIBUTILAMINOETANOL','6.1','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('2874','ALCOHOL FURFURILICO','6.1','','','2021-12-01','');
