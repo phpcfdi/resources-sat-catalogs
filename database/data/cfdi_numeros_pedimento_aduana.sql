@@ -10382,6 +10382,7 @@ INSERT INTO cfdi_numeros_pedimento_aduana VALUES('23','3738',2012,999999,'2017-0
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('23','3738',2013,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('23','3738',2014,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('23','3738',2015,999999,'2017-01-01','');
+INSERT INTO cfdi_numeros_pedimento_aduana VALUES('23','3743',2022,999999,'2022-08-12','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('23','3771',2007,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('23','3771',2008,999999,'2017-01-01','');
 INSERT INTO cfdi_numeros_pedimento_aduana VALUES('23','3771',2009,999999,'2017-01-01','');
