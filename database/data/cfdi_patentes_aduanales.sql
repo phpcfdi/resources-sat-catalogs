@@ -2455,6 +2455,7 @@ INSERT INTO cfdi_patentes_aduanales VALUES('4114','2014-04-10','');
 INSERT INTO cfdi_patentes_aduanales VALUES('4115','2014-05-16','');
 INSERT INTO cfdi_patentes_aduanales VALUES('4116','2016-06-22','');
 INSERT INTO cfdi_patentes_aduanales VALUES('4117','2015-07-06','');
+INSERT INTO cfdi_patentes_aduanales VALUES('4118','2003-06-06','');
 INSERT INTO cfdi_patentes_aduanales VALUES('5001','2001-01-01','');
 INSERT INTO cfdi_patentes_aduanales VALUES('5002','2002-08-22','');
 INSERT INTO cfdi_patentes_aduanales VALUES('5003','2001-01-01','');
