@@ -1,7 +1,7 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0004','PICRATO DE AMONIO seco o humedecido con menos de 10%, en masa, de agua','1.1D','','','2021-12-01','');
-INSERT INTO ccp_20_materiales_peligrosos VALUES('0005','Perros','1.1F','','','2021-12-01','');
+INSERT INTO ccp_20_materiales_peligrosos VALUES('0005','CARTUCHOS PARA ARMAS, con carga explosiva','1.1F','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0006','CARTUCHOS PARA ARMAS, con carga explosiva','1.1E','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0007','CARTUCHOS PARA ARMAS, con carga explosiva','1.2F','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0009','MUNICIONES INCENDIARIAS con o sin carga detonante, carga expulsora o carga propulsora','1.2G','','','2021-12-01','');
@@ -141,7 +141,7 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES('0247','MUNICIONES INCENDIARIAS 
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0248','DISPOSITIVOS ACTIVADOS POR AGUA, con carga detonante carga expulsora o carga propulsora','1.2L','','Substancias y objetos que presentan un riesgo de proyección, pero no de\nexplosión de la totalidad de la masa.','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0249','DISPOSITIVOS ACTIVADOS POR AGUA, con carga detonante carga expulsora o carga propulsora','1.3L','','Substancias y objetos que presentan un riesgo de incendio y un riesgo de que se produzcan pequeños efectos de onda expansiva o de proyección o de ambos, pero no de explosión de la totalidad de la masa.','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0250','MOTORES DE COHETE CON LIQUIDOS HIPERGOLICOS, con o sin carga expulsora','1.3L','','','2021-12-01','');
-INSERT INTO ccp_20_materiales_peligrosos VALUES('0254','MUNICIONES DE LUMINACIÓN con o sin carga detonante, carga expulsora o carga propulsora','1.3G','','','2021-12-01','');
+INSERT INTO ccp_20_materiales_peligrosos VALUES('0254','MUNICIONES DE ILUMINACION con o sin carga detonante, carga expulsora o carga propulsora','1.3G','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0255','DETONADORES ELECTRICOS para voladuras','1.4B','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0257','ESPOLETAS DETONANTES','1.4B','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0266','OCTOLITA (OCTOL) seca o humidificada con menos de 15%, en masa, de agua','1.1D','','','2021-12-01','');
@@ -171,8 +171,8 @@ INSERT INTO ccp_20_materiales_peligrosos VALUES('0293','GRANADAS de mano o de fu
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0294','MINAS con carga explosiva','1.2F','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0295','COHETES con carga explosiva','1.2F','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0296','CARGAS EXPLOSIVAS PARA SONDEOS ','1.1F','','','2021-12-01','');
-INSERT INTO ccp_20_materiales_peligrosos VALUES('0297','MUNICIONES DE LUMINACIÓN con o sin carga detonante, carga expulsora o carga propulsora','1.4G','','','2021-12-01','');
-INSERT INTO ccp_20_materiales_peligrosos VALUES('0299','BOMBAS DE LUMINACIÓN PARA FOTOGRAFIA','1.3G','','','2021-12-01','');
+INSERT INTO ccp_20_materiales_peligrosos VALUES('0297','MUNICIONES DE ILUMINACION con o sin carga detonante, carga expulsora o carga propulsora','1.4G','','','2021-12-01','');
+INSERT INTO ccp_20_materiales_peligrosos VALUES('0299','BOMBAS DE ILUMINACION PARA FOTOGRAFIA','1.3G','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0300','MUNICIONES INCENDIARIAS con o sin carga detonante, carga expulsora o carga propulsora','1.4G','','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0301','MUNICIONES LACRIMOGENAS con carga detonante, carga expulsora o carga propulsora','1.4G','6.1 8','','2021-12-01','');
 INSERT INTO ccp_20_materiales_peligrosos VALUES('0303','MUNICIONES FUMIGENAS con o sin carga detonante, carga expulsora o carga propulsora','1.4G','','','2021-12-01','');

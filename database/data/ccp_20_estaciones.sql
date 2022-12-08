@@ -65,7 +65,7 @@ INSERT INTO ccp_20_estaciones VALUES('PM062','Bahías de Huatulco','02','México
 INSERT INTO ccp_20_estaciones VALUES('PM063','Puerto Escondido','02','México','','','2021-06-01','');
 INSERT INTO ccp_20_estaciones VALUES('PM064','Puerto Angel','02','México','','','2021-06-01','');
 INSERT INTO ccp_20_estaciones VALUES('PM065','Puerto Juárez','02','México','','','2021-06-01','');
-INSERT INTO ccp_20_estaciones VALUES('PM066','Isla Mujeres','02','México','','','2021-06-01','');
+INSERT INTO ccp_20_estaciones VALUES('PM066','Isla Mujeres isla','02','México','','','2021-06-01','');
 INSERT INTO ccp_20_estaciones VALUES('PM067','Cancún','02','México','','','2021-06-01','');
 INSERT INTO ccp_20_estaciones VALUES('PM068','Puerto Morelos','02','México','','','2021-06-01','');
 INSERT INTO ccp_20_estaciones VALUES('PM069','Playa del Carmen','02','México','','','2021-06-01','');
@@ -120,6 +120,9 @@ INSERT INTO ccp_20_estaciones VALUES('PM117','Río Lagartos','02','México','','
 INSERT INTO ccp_20_estaciones VALUES('PM118','Las Coloradas','02','México','','','2021-06-01','');
 INSERT INTO ccp_20_estaciones VALUES('PM119','El Cuyo','02','México','','','2021-06-01','');
 INSERT INTO ccp_20_estaciones VALUES('PM120','Extranjera','02','Extranjera','','','2021-06-01','');
+INSERT INTO ccp_20_estaciones VALUES('PM121','Cozumel isla','02','México','','','2022-12-07','');
+INSERT INTO ccp_20_estaciones VALUES('PM122','Cozumel municipio','02','México','','','2022-12-07','');
+INSERT INTO ccp_20_estaciones VALUES('PM123','Isla Mujeres municipio','02','México','','','2022-12-07','');
 INSERT INTO ccp_20_estaciones VALUES('EA0001','Konrad Adenauer','03','Alemania','CGN','','2021-06-01','');
 INSERT INTO ccp_20_estaciones VALUES('EA0002','Rhein-Ruhr','03','Alemania','DUS','','2021-06-01','');
 INSERT INTO ccp_20_estaciones VALUES('EA0003','Münster/Osnabrück','03','Alemania','FMO','','2021-06-01','');
