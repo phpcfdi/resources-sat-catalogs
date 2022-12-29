@@ -21,5 +21,5 @@ INSERT INTO cfdi_usos_cfdi VALUES('D07','Primas por seguros de gastos médicos.'
 INSERT INTO cfdi_usos_cfdi VALUES('D08','Gastos de transportación escolar obligatoria.',1,'','2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('D09','Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.',1,'','2017-01-01','');
 INSERT INTO cfdi_usos_cfdi VALUES('D10','Pagos por servicios educativos (colegiaturas)',1,'','2017-01-01','');
-INSERT INTO cfdi_usos_cfdi VALUES('P01','Por definir',1,1,'2017-03-31','2022-12-31');
+INSERT INTO cfdi_usos_cfdi VALUES('P01','Por definir',1,1,'2017-03-31','2023-03-31');
 COMMIT;

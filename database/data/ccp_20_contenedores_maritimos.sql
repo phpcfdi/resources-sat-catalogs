@@ -10,4 +10,5 @@ INSERT INTO ccp_20_contenedores_maritimos VALUES('CM007','Contenedores Open Side
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM008','Contenedor Isotanque','2021-06-01','');
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM009','Contenedor flat racks','2021-06-01','');
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM010','Buque tanque','2022-01-01','');
+INSERT INTO ccp_20_contenedores_maritimos VALUES('CM011','Ferri','2022-12-28','');
 COMMIT;
