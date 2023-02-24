@@ -1,0 +1,15 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+INSERT INTO ret_20_periodos VALUES('01','Enero','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('02','Febrero','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('03','Marzo','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('04','Abril','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('05','Mayo','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('06','Junio','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('07','Julio','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('08','Agosto','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('09','Septiembre','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('10','Octubre','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('11','Noviembre','2022-01-01','');
+INSERT INTO ret_20_periodos VALUES('12','Diciembre','2022-01-01','');
+COMMIT;
