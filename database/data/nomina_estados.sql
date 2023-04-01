@@ -9,7 +9,7 @@ INSERT INTO nomina_estados VALUES('CHH','MEX','Chihuahua','2017-01-01','');
 INSERT INTO nomina_estados VALUES('COA','MEX','Coahuila','2017-01-01','');
 INSERT INTO nomina_estados VALUES('COL','MEX','Colima','2017-01-01','');
 INSERT INTO nomina_estados VALUES('CMX','MEX','Ciudad de México','2022-01-01','');
-INSERT INTO nomina_estados VALUES('DIF','MEX','Ciudad de México','2017-01-01','2023-03-31');
+INSERT INTO nomina_estados VALUES('DIF','MEX','Ciudad de México','2017-01-01','2023-06-30');
 INSERT INTO nomina_estados VALUES('DUR','MEX','Durango','2017-01-01','');
 INSERT INTO nomina_estados VALUES('GUA','MEX','Guanajuato','2017-01-01','');
 INSERT INTO nomina_estados VALUES('GRO','MEX','Guerrero','2017-01-01','');
