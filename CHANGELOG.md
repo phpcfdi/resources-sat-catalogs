@@ -439,3 +439,7 @@ Actualización automática con fecha Thu 16 Nov 2023 03:13:33 PM CST
 ## 2023-11-30 phpcfdi/sat-catalogos-populate:v2.7.0 
 
 Actualización automática con fecha Thu 30 Nov 2023 03:12:50 PM CST
+
+## 2023-12-12 phpcfdi/sat-catalogos-populate:v2.7.0 
+
+Actualización automática con fecha Tue 12 Dec 2023 03:11:44 PM CST
