@@ -467,3 +467,4 @@ Actualización automática con fecha Thu 11 Jan 2024 11:40:39 AM CST
 ## 2024-01-11 Actualización de documentación
 
 - Se ha actualizado la lista de catálogos contenidos en el repositorio.
+- Se ha actualizado la documentación para incluir la forma de exportar a JSON.

@@ -17,6 +17,7 @@ Los catálogos que se incluyen son:
 ## Uso del recurso
 
 Las instrucciones SQL para generar la base de datos están en la carpeta `database/` y se encuentra distribuida en archivos `database/schemas/<table>.sql` y `database/data/<table>.sql` para estructura y datos respectivamente.
+El archivo `database/tables.list` contiene el listado de todas las tablas disponibles.
 
 Si deseas obtener los archivos directamente de este repositorio puedes ejecutar:
 
@@ -41,6 +42,31 @@ Los catálogos contienen muchos registros, por ejemplo, el archivo de colonias d
 Lo que representa el mejor balance son archivos de base de datos relacionales, por un lado almacenan la información de la naturaleza de los campos y por otro el contenido. Con este formato es muy sencillo reconstruir la base de datos y poderlos exportar posteriormente a otro formato de tu preferencia.
 
 SQLite3 tiene tres ventajas importantes: la base de datos es un archivo y no requiere un servicio para ser consultada, es totalmente libre y disponible en cualquier sistema operativo, es rápida y eficiente al consumir pocos recursos de espacio y memoria.
+
+## Ejemplo de exportación a JSON
+
+No se recomienda trabajar con los catálogos en formato JSON, debido a que es *mucho* más costoso consultarlos, almacenarlos y actualizarlos. Sin embargo, si esto es lo que necesitas, puedes exportar los catálogos de SQLite3 a JSON de forma muy simple.
+
+Suponiendo que se ha reconstruido la base de datos en el archivo `catalogos.db`, el siguiente código exportará las tablas de la base de datos a archivos en formato JSON.
+
+```bash
+#!/bin/bash
+
+DB=catalogos.db
+
+echo -n "Cargando lista de catálogos ... "
+TABLES=($(sqlite3 "$DB" "select name from sqlite_master where type = 'table' and name not like 'sqlite_%' order by name;"))
+echo "OK"
+
+for TABLE in "${TABLES[@]}"; do
+    echo -n "Exportando $TABLE ... "
+    # Without format (fast)
+    sqlite3 "$DB" ".mode json" ".once '$TABLE.json'" "SELECT * FROM $TABLE;"
+    # With format using jq (slow)
+    # sqlite3 "$DB" ".mode json" "SELECT * FROM $TABLE;" | jq . > $TABLE.json
+    echo "OK"
+done
+```
 
 ## Actualización del recurso
 
