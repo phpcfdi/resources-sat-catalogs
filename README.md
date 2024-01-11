@@ -21,6 +21,17 @@ Los catálogos que se incluyen son:
 
 ## Uso del recurso
 
+El recurso es publicado como una base de datos, se puede obtener la última versión desde <https://github.com/phpcfdi/resources-sat-catalogs/releases/latest/download/catalogs.db.bz2>.
+
+En el siguiente ejemplo se puede ver cómo descargar y descomprimir la última copia de la base de datos en el archivo `catalogs.db`:
+
+```shell
+# descargar en sat-catalogs.db.bz2
+wget -O sat-catalogs.db.bz2 https://github.com/phpcfdi/resources-sat-catalogs/releases/latest/download/catalogs.db.bz2
+# descomprimir en sat-catalogs.db
+bunzip2 catalogs.db.bz2
+```
+
 Las instrucciones SQL para generar la base de datos están en la carpeta `database/` y se encuentra distribuida en archivos `database/schemas/<table>.sql` y `database/data/<table>.sql` para estructura y datos respectivamente.
 El archivo `database/tables.list` contiene el listado de todas las tablas disponibles.
 
