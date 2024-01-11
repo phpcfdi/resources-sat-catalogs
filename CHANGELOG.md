@@ -473,3 +473,5 @@ Actualización automática con fecha Thu 11 Jan 2024 11:40:39 AM CST
 ## 2024-01-11 Publicación automática
 
 Se crea un flujo de trabajo *"Automatic release with database"* de GitHub para que cuando se reciba un *tag* con formato `v*.*.*` en la rama `master` y exista un cambio en algún archivo de la carpeta `database/`, se fabrique automáticamente la base de datos y se publique en un *Release* de forma automática.
+
+En el release `v8.2.20240111` se publicó la base de datos sin comprimir. En los siguientes releases se publicará comprimida con el nombre `catalogs.db.bz2`. Además, se agregó la dirección de descarga a la documentación.
