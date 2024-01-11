@@ -16,8 +16,8 @@ Los catálogos que se incluyen son:
 - Catálogos de complemento de Nóminas 1.1.
 - Catálogos de complemento de Comercio Exterior 1.1.
 - Catálogos de complemento de Comercio Exterior 2.0.
-- Catálogos de complemento de Comercio Exterior 3.0.
 - Catálogos de complemento de Carta Porte 2.0.
+- Catálogos de complemento de Carta Porte 3.0.
 
 ## Uso del recurso
 
