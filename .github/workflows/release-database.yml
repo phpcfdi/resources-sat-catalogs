@@ -1,7 +1,6 @@
 name: "Automatic release with database"
 
 on:
-  workflow_dispatch:
   push:
     branches: [ "master" ]
     tags: [ "v*.*.*" ]
