@@ -468,3 +468,4 @@ Actualización automática con fecha Thu 11 Jan 2024 11:40:39 AM CST
 
 - Se ha actualizado la lista de catálogos contenidos en el repositorio.
 - Se ha actualizado la documentación para incluir la forma de exportar a JSON.
+- Se ha agregado la insignia de construcción.

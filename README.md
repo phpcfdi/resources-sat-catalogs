@@ -1,5 +1,10 @@
 # Catálogos CFDI del SAT
 
+[![Source Code][badge-source]][source]
+[![Discord][badge-discord]][discord]
+[![Latest Version][badge-release]][release]
+[![Build Status][badge-build]][build]
+
 Este repositorio contiene la información de los **Catálogos de CFDI** que el [Servicio de Administración Tributaria (SAT)](http://www.sat.gob.mx/) expone como archivos XLS (MS Excel), pero, transformados a una base de datos de tipo SQLite3.
 
 Los catálogos que se incluyen son:
@@ -95,3 +100,13 @@ Estos recursos, a pesar de estar vinculados con una tecnología en su formato, n
 ## Licencia
 
 La información dentro de este repositorio debe ser considerada de *dominio público*, dado que es una recopilación de información pública generada por el [Servicio de Administración Tributaria (SAT)](https://www.sat.gob.mx/) de México. Debido a lo anterior, se establece este repositorio con la licencia [Unlicense](LICENSE).
+
+[source]: https://github.com/phpcfdi/resources-sat-catalogs
+[discord]: https://discord.gg/aFGYXvX
+[release]: https://github.com/phpcfdi/resources-sat-catalogs/releases
+[build]: https://www.phpcfdi.com/resources-app/build/sat-catalogs
+
+[badge-source]: https://img.shields.io/badge/source-phpcfdi/resources--sat--catalogs-blue?logo=github
+[badge-discord]: https://img.shields.io/discord/459860554090283019?logo=discord
+[badge-release]: https://img.shields.io/github/v/tag/phpcfdi/resources-sat-catalogs?label=version&logo=git
+[badge-build]: https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.phpcfdi.com%2Fresources-app%2Fapi%2Fv1%2Fbuilds%2Fsat-catalogs%2Fshields.io&logo=github-actions
