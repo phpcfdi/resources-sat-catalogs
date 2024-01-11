@@ -1,6 +1,6 @@
 # Catálogos CFDI del SAT
 
-Este repositorio contiene la información de los **Catálogos de CFDI** que el [Servicio de Administración Tributaria (SAT)](http://www.sat.gob.mx/) expone como archivos XLS (MS Excel), pero transformados a una base de datos de tipo SQLite3.
+Este repositorio contiene la información de los **Catálogos de CFDI** que el [Servicio de Administración Tributaria (SAT)](http://www.sat.gob.mx/) expone como archivos XLS (MS Excel), pero, transformados a una base de datos de tipo SQLite3.
 
 Los catálogos que se incluyen son:
 
@@ -16,7 +16,7 @@ Los catálogos que se incluyen son:
 
 ## Uso del recurso
 
-Las instrucciones SQL para generar la base de datos están en la carpeta `database/` y se encuentra distribuida en archivos `database/schemas/<table>.sql` y `database/data/<table>.sql` para estructura y datos respectivamente. El archivo `database/tables.list` contiene el listado de todas las tablas disponibles.
+Las instrucciones SQL para generar la base de datos están en la carpeta `database/` y se encuentra distribuida en archivos `database/schemas/<table>.sql` y `database/data/<table>.sql` para estructura y datos respectivamente.
 
 Si deseas obtener los archivos directamente de este repositorio puedes ejecutar:
 
@@ -34,9 +34,9 @@ cat schemas/*.sql data/*.sql | sqlite3 /tmp/catalogs.db
 
 No se incluyen los archivos de Excel originales porque son archivos binarios que aumentarían de forma innecesaria el tamaño de este repositorio. Sin embargo, estamos analizando la posibilidad de almacenarlos fuera de `git` en caso de que hayan cambiado (versionándolos), contáctanos si tienes alguna idea de cómo conseguir este propósito.
 
-## Porqué SQL y SQLite3
+## Por qué SQL y SQLite3
 
-Los catalogos contienen muchos registros, por ejemplo, el archivo de colonias de comercio exterior cuenta con más de 145,000 registros, el de códigos postales más de 95,000, etc. Estos catálogos con gran cantidad de información, si se utilizaran en otros formatos como XML o JSON consumirían grandes cantidades de memoria para poder consultar un solo registro, por otro lado, otros formatos serían lentos para poder consultar información.
+Los catálogos contienen muchos registros, por ejemplo, el archivo de colonias de comercio exterior cuenta con más de 145,000 registros, el de códigos postales más de 95,000, etc. Estos catálogos con gran cantidad de información, si se utilizaran en otros formatos como XML o JSON consumirían grandes cantidades de memoria para poder consultar un solo registro, por otro lado, otros formatos serían lentos para poder consultar información.
 
 Lo que representa el mejor balance son archivos de base de datos relacionales, por un lado almacenan la información de la naturaleza de los campos y por otro el contenido. Con este formato es muy sencillo reconstruir la base de datos y poderlos exportar posteriormente a otro formato de tu preferencia.
 
@@ -46,7 +46,7 @@ SQLite3 tiene tres ventajas importantes: la base de datos es un archivo y no req
 
 Las actualizaciones al repositorio pueden ser consultadas en el archivo [`CHANGELOG`](./CHANGELOG.md).
 
-El proceso de actualización es automático y se genera gracias al programa [`phpcfdi/sat-catalogos-populate`](https://github.com/phpcfdi/sat-catalogos-populate) para poder descargar los archivos de catálogos y convertirlos a una base de datos SQLite3. Una vez creada la base de datos a través de un script se generan los archivos SQL.
+El proceso de actualización es automático y se genera gracias al programa [`phpcfdi/sat-catalogos-populate`](https://github.com/phpcfdi/sat-catalogos-populate) para poder descargar los archivos de catálogos y convertirlos a una base de datos SQLite3. Una vez creada la base de datos, a través de un script se generan los archivos SQL.
 
 En caso de encontrar que el repositorio no está actualizado, por favor genera un `Issue` en este repositorio, explicando qué archivo falta o sobra o contiene datos no actualizados.
 
