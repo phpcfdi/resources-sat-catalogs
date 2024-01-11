@@ -463,3 +463,7 @@ Actualización automática con fecha Wed 10 Jan 2024 09:15:16 PM CST
 ## 2024-01-11 phpcfdi/sat-catalogos-populate:v2.8.0 
 
 Actualización automática con fecha Thu 11 Jan 2024 11:40:39 AM CST
+
+## 2024-01-11 Actualización de documentación
+
+- Se ha actualizado la lista de catálogos contenidos en el repositorio.

@@ -4,10 +4,15 @@ Este repositorio contiene la información de los **Catálogos de CFDI** que el [
 
 Los catálogos que se incluyen son:
 
-- Catálogos de CFDI 3.3
-- Catálogos de complemento de Pagos 1.1
-- Catálogos de complemento de Nóminas 1.1
-- Catálogos de complemento de Comercio Exterior 1.1
+- Catálogos de CFDI 4.0.
+- Catálogos de CFDI 3.3.
+- Catálogos de CFDI De Retenciones e Información de Pagos 2.0.
+- Catálogos de complemento de Pagos 1.1.
+- Catálogos de complemento de Nóminas 1.1.
+- Catálogos de complemento de Comercio Exterior 1.1.
+- Catálogos de complemento de Comercio Exterior 2.0.
+- Catálogos de complemento de Comercio Exterior 3.0.
+- Catálogos de complemento de Carta Porte 2.0.
 
 ## Uso del recurso
 
