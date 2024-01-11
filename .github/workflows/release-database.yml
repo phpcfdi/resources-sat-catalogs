@@ -1,0 +1,36 @@
+name: "Automatic release with database"
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "master" ]
+    tags: [ "v*.*.*" ]
+    paths: [ "database/**" ]
+
+# Actions
+# softprops/action-gh-release@v1 https://github.com/softprops/action-gh-release
+
+jobs:
+  publish:
+    runs-on: "ubuntu-latest"
+    permissions:
+      contents: write
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v3
+      - name: Install dependencies running on nektos/act
+        if: github.actor == 'nektos/act'
+        run: |
+          apt-get update -y -qq
+          apt-get install -y -qq sqlite3
+      - name: "Package information"
+        id: package_info
+        run: echo "version=v$(cat database/version.txt)" >> $GITHUB_OUTPUT
+      - name: "Create database"
+        run: cat database/schemas/*.sql database/data/*.sql | sqlite3 catalogs.db
+      - name: "Publish release"
+        if: github.actor != 'nektos/act'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.package_info.outputs.version }}
+          files: catalogs.db
