@@ -479,3 +479,7 @@ En el release `v8.2.20240111` se publicó la base de datos sin comprimir. En los
 ## 2024-01-25 phpcfdi/sat-catalogos-populate:v2.8.0 
 
 Actualización automática con fecha Thu 25 Jan 2024 09:12:16 AM CST
+
+## 2024-01-25 phpcfdi/sat-catalogos-populate:v2.8.0 
+
+Actualización automática con fecha Thu 25 Jan 2024 03:12:43 PM CST

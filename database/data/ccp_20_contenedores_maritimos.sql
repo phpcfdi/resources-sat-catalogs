@@ -11,4 +11,5 @@ INSERT INTO ccp_20_contenedores_maritimos VALUES('CM008','Contenedor Isotanque',
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM009','Contenedor flat racks','2021-06-01','');
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM010','Buque tanque','2022-01-01','');
 INSERT INTO ccp_20_contenedores_maritimos VALUES('CM011','Ferri','2022-12-28','');
+INSERT INTO ccp_20_contenedores_maritimos VALUES('CM012','Ferri – Turístico y vacíos','2024-01-25','');
 COMMIT;
