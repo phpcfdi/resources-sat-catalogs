@@ -16,7 +16,7 @@ jobs:
       contents: write
     steps:
       - name: "Checkout"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Install dependencies running on nektos/act
         if: github.actor == 'nektos/act'
         run: |
