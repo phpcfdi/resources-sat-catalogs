@@ -3,7 +3,6 @@ name: "Automatic release with database"
 on:
   push:
     branches: [ "master" ]
-    tags: [ "v*.*.*" ]
     paths: [ "database/**" ]
 
 # Actions
@@ -16,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: "Checkout"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Install dependencies running on nektos/act
         if: github.actor == 'nektos/act'
         run: |
@@ -30,7 +29,7 @@ jobs:
       - name: "Compress database"
         run: bzip2 catalogs.db
       - name: "Publish release"
-        if: github.actor != 'nektos/act'
+        if: github.actor != 'nektos/act' && startsWith(github.ref, 'refs/tags/v')
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ steps.package_info.outputs.version }}
