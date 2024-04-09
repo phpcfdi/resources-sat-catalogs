@@ -284,7 +284,7 @@ INSERT INTO ccp_30_estaciones VALUES('EA0158','W K Kellogg','03','Estados Unidos
 INSERT INTO ccp_30_estaciones VALUES('EA0159','Bert Mooney','03','Estados Unidos','BTM','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0160','Buffalo Niagara International','03','Estados Unidos','BUF','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0161','Warren County Regional','03','Estados Unidos','BWG','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0162','Baltimore/Washington International Thurgood Marshall','03','Estados Unidos','BWI','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES('EA0162','Balt/Wash International Thurgood Marshall','03','Estados Unidos','BWI','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0163','Columbia Metropolitan','03','Estados Unidos','CAE','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0164','Akron-Canton Regional','03','Estados Unidos','CAK','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0165','Lovell','03','Estados Unidos','CHA','','2023-11-25','');
@@ -1106,7 +1106,7 @@ INSERT INTO ccp_30_estaciones VALUES('EA0980','Ángeles Espinosa Yglesias','03',
 INSERT INTO ccp_30_estaciones VALUES('EA0981','Atún Vi','03','México','HAF','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0982','Agua','03','México','HAG','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0983','Hospital General Ajusco Medio','03','México','HAH','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA0984','Helipuerto Agencia Estatal De Investigaciones Monterrey','03','México','HAI','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES('EA0984','Helipuerto Agencia Estatal De Investigaciones Mty.','03','México','HAI','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0985','Punta  Estrella','03','México','HAJ','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0986','Atilano Castaño','03','México','HAK','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA0987','Hospital Ángeles De Xalapa','03','México','HAL','','2023-11-25','');
@@ -1245,7 +1245,7 @@ INSERT INTO ccp_30_estaciones VALUES('EA1119','Torre Equss Sur','03','México','
 INSERT INTO ccp_30_estaciones VALUES('EA1120','Torre Equss Norte','03','México','HHK','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1121','Humberto Lobo Morales','03','México','HHL','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1122','Altos Hornos De México','03','México','HHM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1123','Secretaría De Marina\nAbierto A La Operación Civil En Emergencia','03','México','HHN','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES('EA1123','Secretaría de Marina (Oper. Civil En Emergencia)','03','México','HHN','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1124','Torre Medica Hospital Puebla','03','México','HHP','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1125','Hospital General De 24 Camas','03','México','HHQ','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1126','Camino Real México','03','México','HHR','','2023-11-25','');
@@ -1265,7 +1265,7 @@ INSERT INTO ccp_30_estaciones VALUES('EA1139','Itam Rio Hondo','03','México','H
 INSERT INTO ccp_30_estaciones VALUES('EA1140','Centenario Gr','03','México','HII','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1141','Bicentenario','03','México','HIJ','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1142','Huachichil','03','México','HIL','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1143','Centro Internacional De Medicina De Puebla\n(Proyecto)','03','México','HIM','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES('EA1143','Centro Internacional De Medicina De Puebla','03','México','HIM','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1144','Mundo Infantil','03','México','HIM','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1145','Hospital ABC','03','México','HIN','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1146','Industria Del Hierro','03','México','HIQ','','2023-11-25','');
@@ -1424,7 +1424,7 @@ INSERT INTO ccp_30_estaciones VALUES('EA1298','Hacienda San Juan','03','México'
 INSERT INTO ccp_30_estaciones VALUES('EA1299','Atún I','03','México','HSK','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1300','Hotel Solaris','03','México','HSL','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1301','Helipuerto Secretaria De Seguridad Publica','03','México','HSM','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1302','Sindicato Nacional De Los Trabajadores De La Educación','03','México','HSN','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES('EA1302','Sind. Nacional De Los Trabajadores De La Educación','03','México','HSN','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1303','Helipuerto Sefuver','03','México','HSO','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1304','Palmore','03','México','HSP','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1305','Seguridad Publica De Cancún','03','México','HSQ','','2023-11-25','');
@@ -1685,7 +1685,7 @@ INSERT INTO ccp_30_estaciones VALUES('EA1559','Los Charcos','03','México','LOS'
 INSERT INTO ccp_30_estaciones VALUES('EA1560','Los Vasitos','03','México','LOV','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1561','El Loreto','03','México','LOY','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1562','La Piedad','03','México','LPD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA1563','La Pesca\nBase Aeronaval, Notam: \nCerrada A La Operación Civil','03','México','LPE','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES('EA1563','La Pesca Base Aeronaval','03','México','LPE','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1564','La Paloma','03','México','LPF','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1565','La Pichihuila','03','México','LPH','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA1566','La Poza','03','México','LPJ','','2023-11-25','');
@@ -2244,7 +2244,7 @@ INSERT INTO ccp_30_estaciones VALUES('EA2118','Santa Anita Sereasa','03','Méxic
 INSERT INTO ccp_30_estaciones VALUES('EA2119','San Sebastián','03','México','SSB','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2120','San Isidro Sereasa','03','México','SSI','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2121','San José De Salsipuedes','03','México','SSS','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2122','Sociedad Cooperativa De Servicios Agropecuarios Tamaulipecos','03','México','SST','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES('EA2122','S. Coop. De Servicios Agropecuarios Tamaulipecos','03','México','SST','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2123','Santa Barbara','03','México','STB','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2124','El Siete','03','México','STE','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2125','Santa María','03','México','STH','','2023-11-25','');
@@ -2321,14 +2321,14 @@ INSERT INTO ccp_30_estaciones VALUES('EA2195','El Tulillo','03','México','TTF',
 INSERT INTO ccp_30_estaciones VALUES('EA2196','Tototan','03','México','TTO','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2197','Tututepec','03','México','TTP','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2198','La Tuna','03','México','TUN','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2199','Tulum\nBase Aeronaval, Notam: \nCerrada A La Operación Civil','03','México','TUY','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES('EA2199','Tulum Base Aeronaval','03','México','TUY','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2200','Aeropista Tuxpan','03','México','TXP','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2201','Tamazula','03','México','TZA','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2202','El Temazcal','03','México','TZC','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2203','Tancuzay','03','México','TZY','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2204','Unitec Campus Atizapán','03','México','UCA','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2205','Ultraligeros Del Desierto','03','México','UDD','','2023-11-25','');
-INSERT INTO ccp_30_estaciones VALUES('EA2206','Unión De Ejidos\n(Proyecto)','03','México','UDE','','2023-11-25','');
+INSERT INTO ccp_30_estaciones VALUES('EA2206','Unión De Ejidos (Proyecto)','03','México','UDE','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2207','Úrsulo Galván','03','México','UGA','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2208','Unión De Granjas Elizabeth','03','México','UGE','','2023-11-25','');
 INSERT INTO ccp_30_estaciones VALUES('EA2209','El Jabalí','03','México','UJI','','2023-11-25','');
