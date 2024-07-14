@@ -1,7 +1,7 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
-INSERT INTO cfdi_40_usos_cfdi VALUES('G01','Adquisición de mercancías.',1,1,'2022-01-01','','601, 603, 606, 612, 620, 621, 622, 623, 624, 625,626');
-INSERT INTO cfdi_40_usos_cfdi VALUES('G02','Devoluciones, descuentos o bonificaciones.',1,1,'2022-01-01','','601, 603, 606, 612, 616, 620, 621, 622, 623, 624, 625,626');
+INSERT INTO cfdi_40_usos_cfdi VALUES('G01','Adquisición de mercancías.',1,1,'2022-01-01','','601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626');
+INSERT INTO cfdi_40_usos_cfdi VALUES('G02','Devoluciones, descuentos o bonificaciones.',1,1,'2022-01-01','','601, 603, 606, 612, 616, 620, 621, 622, 623, 624, 625, 626');
 INSERT INTO cfdi_40_usos_cfdi VALUES('G03','Gastos en general.',1,1,'2022-01-01','','601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626');
 INSERT INTO cfdi_40_usos_cfdi VALUES('I01','Construcciones.',1,1,'2022-01-01','','601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626');
 INSERT INTO cfdi_40_usos_cfdi VALUES('I02','Mobiliario y equipo de oficina por inversiones.',1,1,'2022-01-01','','601, 603, 606, 612, 620, 621, 622, 623, 624, 625, 626');
