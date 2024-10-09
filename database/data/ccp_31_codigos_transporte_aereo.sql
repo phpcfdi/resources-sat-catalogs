@@ -160,4 +160,17 @@ INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA157','Mexicanas','Servicio
 INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA158','Extranjeras','Servicio de Taxi Aéreo','NA','2024-07-17','');
 INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA159','Mexicanas','Servicios Privados No Comerciales','NA','2024-07-17','');
 INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA160','Extranjeras','Servicios Privados No Comerciales','NA','2024-07-17','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA161','Mexicanas','Aerus','RFD','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA162','Mexicanas','Mexicana (Aerolínea del Estado Mexicano)','MXA','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA163','Mexicanas','Eurus Aviation','EUS','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA164','Mexicanas','Señor Air','SEN','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA165','Mexicanas','TM Aerolíneas','WIN','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA166','Ecuador','Avianca Ecuador','GLG','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA167','Canadienses','Jetlines','CJL','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA168','Estadounidenses','Avelo Airlines','VXP','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA169','Estadounidenses','Global Wings Express','GWW','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA170','Estadounidenses','KaiserAir','KAI','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA171','Asiaticas','Air China Cargo','CAO','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA172','Malta','AirX Charter','AXY','2024-10-09','');
+INSERT INTO ccp_31_codigos_transporte_aereo VALUES('CA173','Centro y Sudamericanas','Azul Linhas Aéreas Brasileiras','AZU','2024-10-09','');
 COMMIT;
