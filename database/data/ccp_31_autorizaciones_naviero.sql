@@ -306,7 +306,7 @@ INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANC005/2024','2024-02-14','202
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANC006/2024','2024-02-23','2029-02-24');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANC007/2024','2024-02-27','2029-02-28');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG008/2024','2024-03-04','2029-03-05');
-INSERT INTO ccp_31_autorizaciones_naviero VALUES('NAVMX-2024','2024-04-05','2024-12-31');
+INSERT INTO ccp_31_autorizaciones_naviero VALUES('NAVMX-2024','2024-04-05','2025-12-31');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG006/2024','2024-02-23','2029-02-24');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG007/2024','2024-02-27','2029-02-28');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANC003/2024','2024-02-01','2029-02-02');
@@ -336,4 +336,7 @@ INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG005/2023','2023-02-28','202
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANC016/2023','2023-04-19','2028-04-20');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG034/2023','2023-06-09','2028-06-10');
 INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG035/2023','2023-07-03','2028-07-04');
+INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG029/2024','2024-09-23','2029-09-24');
+INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG030/2024','2024-10-07','2029-10-08');
+INSERT INTO ccp_31_autorizaciones_naviero VALUES('ANG031/2024','2024-10-28','2029-10-29');
 COMMIT;
