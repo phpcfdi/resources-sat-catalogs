@@ -68,7 +68,7 @@ Suponiendo que se ha reconstruido la base de datos en el archivo `catalogos.db`,
 ```bash
 #!/bin/bash
 
-DB=catalogos.db
+DB=sat-catalogs.db
 
 echo -n "Cargando lista de catálogos ... "
 TABLES=($(sqlite3 "$DB" "select name from sqlite_master where type = 'table' and name not like 'sqlite_%' order by name;"))
