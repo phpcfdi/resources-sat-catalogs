@@ -3288,6 +3288,7 @@ INSERT INTO cfdi_40_patentes_aduanales VALUES('6158','2024-03-27','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('6161','2024-03-26','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('6162','2024-03-26','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('6165','2024-06-07','');
+INSERT INTO cfdi_40_patentes_aduanales VALUES('6167','2024-11-22','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('6169','2024-06-26','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('6172','2025-06-16','');
 INSERT INTO cfdi_40_patentes_aduanales VALUES('7001','2006-10-19','');
