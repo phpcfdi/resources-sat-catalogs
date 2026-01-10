@@ -1,11 +1,11 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
-INSERT INTO nomina_tipos_otros_pagos VALUES('001','Reintegro de ISR pagado en exceso (siempre que no haya sido enterado al SAT).','2017-01-01','');
+INSERT INTO nomina_tipos_otros_pagos VALUES('001','Reintegro de ISR retenido en exceso (siempre que no haya sido enterado al SAT).','2017-01-01','');
 INSERT INTO nomina_tipos_otros_pagos VALUES('002','Subsidio para el empleo (efectivamente entregado al trabajador).','2017-01-01','');
 INSERT INTO nomina_tipos_otros_pagos VALUES('003','Viáticos (entregados al trabajador).','2017-01-01','');
 INSERT INTO nomina_tipos_otros_pagos VALUES('004','Aplicación de saldo a favor por compensación anual.','2017-01-01','');
 INSERT INTO nomina_tipos_otros_pagos VALUES('005','Reintegro de ISR retenido en exceso de ejercicio anterior (siempre que no haya sido enterado al SAT).','2017-12-05','');
-INSERT INTO nomina_tipos_otros_pagos VALUES('006','Alimentos en bienes (Servicios de comedor y comida) Art 94 último párrafo LISR.','2020-01-01','');
+INSERT INTO nomina_tipos_otros_pagos VALUES('006','Alimentos en bienes (Servicios de comedor y comida) Art 94 penúltimo párrafo LISR.','2020-01-01','');
 INSERT INTO nomina_tipos_otros_pagos VALUES('007','ISR ajustado por subsidio.','2020-01-01','');
 INSERT INTO nomina_tipos_otros_pagos VALUES('008','Subsidio efectivamente entregado que no correspondía (Aplica sólo cuando haya ajuste al cierre de mes en relación con el Apéndice 7 de la guía de llenado de nómina).','2020-01-01','');
 INSERT INTO nomina_tipos_otros_pagos VALUES('009','Reembolso de descuentos efectuados para el crédito de vivienda.','2020-04-20','');

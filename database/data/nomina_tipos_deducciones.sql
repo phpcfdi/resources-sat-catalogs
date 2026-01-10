@@ -34,7 +34,7 @@ INSERT INTO nomina_tipos_deducciones VALUES('031','Ajuste en Contribuciones a Ca
 INSERT INTO nomina_tipos_deducciones VALUES('032','Ajuste en Premios por puntualidad Gravado','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('033','Ajuste en Prima de Seguro de vida Exento','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('034','Ajuste en Seguro de Gastos Médicos Mayores Exento','2017-01-06','');
-INSERT INTO nomina_tipos_deducciones VALUES('035','Ajuste en Cuotas Sindicales Pagadas por el Patrón Exento','2017-01-06','');
+INSERT INTO nomina_tipos_deducciones VALUES('035','Ajuste en Cuotas Sindicales Pagadas por el Patrón Gravado','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('036','Ajuste en Subsidios por incapacidad Exento','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('037','Ajuste en Becas para trabajadores y/o hijos Exento','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('038','Ajuste en Horas extra Exento','2017-01-06','');
@@ -62,7 +62,7 @@ INSERT INTO nomina_tipos_deducciones VALUES('059','Ajuste en Ayuda para artícul
 INSERT INTO nomina_tipos_deducciones VALUES('060','Ajuste en Ayuda para anteojos Exento','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('061','Ajuste en Ayuda para transporte Exento','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('062','Ajuste en Ayuda para gastos de funeral Exento','2017-01-06','');
-INSERT INTO nomina_tipos_deducciones VALUES('063','Ajuste en Otros ingresos por salarios Exento','2017-01-06','');
+INSERT INTO nomina_tipos_deducciones VALUES('063','Ajuste en Otros ingresos por salarios Exento','2017-01-06','2026-12-31');
 INSERT INTO nomina_tipos_deducciones VALUES('064','Ajuste en Otros ingresos por salarios Gravado','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('065','Ajuste en Jubilaciones, pensiones o haberes de retiro en una sola exhibición Exento','2018-10-15','');
 INSERT INTO nomina_tipos_deducciones VALUES('066','Ajuste en Jubilaciones, pensiones o haberes de retiro en una sola exhibición Gravado','2018-10-15','');
@@ -107,4 +107,10 @@ INSERT INTO nomina_tipos_deducciones VALUES('104','Ajuste a pagos que se realice
 INSERT INTO nomina_tipos_deducciones VALUES('105','Ajuste a pagos que se realicen a extrabajadores que obtengan una jubilación en una sola exhibición derivados de la ejecución de una resolución judicial o de un laudo gravados','2018-10-15','');
 INSERT INTO nomina_tipos_deducciones VALUES('106','Ajuste a pagos que se realicen a extrabajadores que obtengan una jubilación en una sola exhibición derivados de la ejecución de una resolución judicial o de un laudo exentos','2018-10-15','');
 INSERT INTO nomina_tipos_deducciones VALUES('107','Ajuste al Subsidio Causado','2020-01-01','');
+INSERT INTO nomina_tipos_deducciones VALUES('108','Ajuste a días de descanso laborados gravados','2026-01-01','');
+INSERT INTO nomina_tipos_deducciones VALUES('109','Ajuste a días de descanso laborados exentos','2026-01-01','');
+INSERT INTO nomina_tipos_deducciones VALUES('110','Ajuste a días de descanso obligatorios laborados gravados','2026-01-01','');
+INSERT INTO nomina_tipos_deducciones VALUES('111','Ajuste a días de descanso obligatorios laborados exentos','2026-01-01','');
+INSERT INTO nomina_tipos_deducciones VALUES('112','Ajuste previsión social Art 93 fracciones VIII y IX LISR gravados','2025-12-17','');
+INSERT INTO nomina_tipos_deducciones VALUES('113','Ajuste previsión social Art 93 fracciones VIII y IX LISR exentos','2025-12-17','');
 COMMIT;

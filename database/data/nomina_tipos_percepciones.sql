@@ -37,11 +37,14 @@ INSERT INTO nomina_tipos_percepciones VALUES('039','Jubilaciones, pensiones o ha
 INSERT INTO nomina_tipos_percepciones VALUES('044','Jubilaciones, pensiones o haberes de retiro en parcialidades','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('045','Ingresos en acciones o títulos valor que representan bienes','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('046','Ingresos asimilados a salarios','2016-11-01','');
-INSERT INTO nomina_tipos_percepciones VALUES('047','Alimentación diferentes a los establecidos en el Art 94 último párrafo LISR','2016-11-01','');
+INSERT INTO nomina_tipos_percepciones VALUES('047','Alimentación diferentes a los establecidos en el Art 94 penúltimo párrafo LISR','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('048','Habitación','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('049','Premios por asistencia','2016-11-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('050','Viáticos','2017-01-06','');
 INSERT INTO nomina_tipos_percepciones VALUES('051','Pagos por gratificaciones, primas, compensaciones, recompensas u otros a extrabajadores derivados de jubilación en parcialidades','2018-10-15','');
 INSERT INTO nomina_tipos_percepciones VALUES('052','Pagos que se realicen a extrabajadores que obtengan una jubilación en parcialidades derivados de la ejecución de resoluciones judicial o de un laudo','2018-10-15','');
 INSERT INTO nomina_tipos_percepciones VALUES('053','Pagos que se realicen a extrabajadores que obtengan una jubilación en una sola exhibición derivados de la ejecución de resoluciones judicial o de un laudo','2018-10-15','');
+INSERT INTO nomina_tipos_percepciones VALUES('054','Días de descanso laborados','2026-01-01','');
+INSERT INTO nomina_tipos_percepciones VALUES('055','Días de descanso obligatorios laborados','2026-01-01','');
+INSERT INTO nomina_tipos_percepciones VALUES('056','Previsión social, Art 93 fracciones VIII y IX LISR','2025-12-17','');
 COMMIT;
