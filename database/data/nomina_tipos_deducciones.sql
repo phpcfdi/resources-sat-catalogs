@@ -62,7 +62,7 @@ INSERT INTO nomina_tipos_deducciones VALUES('059','Ajuste en Ayuda para artícul
 INSERT INTO nomina_tipos_deducciones VALUES('060','Ajuste en Ayuda para anteojos Exento','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('061','Ajuste en Ayuda para transporte Exento','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('062','Ajuste en Ayuda para gastos de funeral Exento','2017-01-06','');
-INSERT INTO nomina_tipos_deducciones VALUES('063','Ajuste en Otros ingresos por salarios Exento','2017-01-06','2026-12-31');
+INSERT INTO nomina_tipos_deducciones VALUES('063','Ajuste en Otros ingresos por salarios Exento','2017-01-06','2026-03-01');
 INSERT INTO nomina_tipos_deducciones VALUES('064','Ajuste en Otros ingresos por salarios Gravado','2017-01-06','');
 INSERT INTO nomina_tipos_deducciones VALUES('065','Ajuste en Jubilaciones, pensiones o haberes de retiro en una sola exhibición Exento','2018-10-15','');
 INSERT INTO nomina_tipos_deducciones VALUES('066','Ajuste en Jubilaciones, pensiones o haberes de retiro en una sola exhibición Gravado','2018-10-15','');
