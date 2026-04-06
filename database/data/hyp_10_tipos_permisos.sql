@@ -1,0 +1,11 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+INSERT INTO hyp_10_tipos_permisos VALUES('PER01','Expendio en estaciones de servicio de petrolíferos','PL/(N°Consecutivo)/EXP/ES/(Año)','PL/[0-9]{3,20}/EXP/ES/[0-9]{4}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER02','Comercialización','H/(N°Consecutivo)/COM/(Año)','H/[0-9]{3,24}/COM/[0-9]{4}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER03','Distribución por otros medios distintos a ducto','PL/(N°Consecutivo)/DIS/OM/(Año)','PL/[0-9]{3,20}/DIS/OM/[0-9]{4}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER04','Expendio en estaciones de servicio multimodal de petrolíferos','PL/(N°Consecutivo)/EXP/ES/MM/(Año)','PL/[0-9]{3,17}/EXP/ES/MM/[0-9]{4}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER05','Expendio en estaciones de servicio de petrolíferos','CNE/PL/(N°Consecutivo)/EXP/ES/(Año)','CNE/PL/[0-9]{3,16}/EXP/ES/[0-9]{4}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER06','Comercialización','CNE/H/(N°Consecutivo)/COM/(Año)','CNE/H/[0-9]{3,20}/COM/[0-9]{4}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER07','Distribución por otros medios distintos a ducto','CNE/PL/(N°Consecutivo)/DIS/OM/(Año)','CNE/PL/[0-9]{3,16}/DIS/OM/[0-9]{4}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER08','Expendio en estaciones de servicio multimodal de petrolíferos','CNE/PL/(N°Consecutivo)/EXP/ES/MM/(Año)','CNE/PL/[0-9]{3,13}/EXP/ES/MM/[0-9]{4}','2026-04-24','');
+COMMIT;

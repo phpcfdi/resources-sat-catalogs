@@ -1,0 +1,12 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+INSERT INTO hyp_10_subproductos_hyp VALUES('SP16','Gasolina regular menor a 91 octanos','Gasolina','2026-04-24','');
+INSERT INTO hyp_10_subproductos_hyp VALUES('SP17','Gasolina premium mayor o igual a 91 octanos','Gasolina','2026-04-24','');
+INSERT INTO hyp_10_subproductos_hyp VALUES('SP18','Diésel automotriz','Diésel','2026-04-24','');
+INSERT INTO hyp_10_subproductos_hyp VALUES('SP19','Diésel marino','Diésel','2026-04-24','');
+INSERT INTO hyp_10_subproductos_hyp VALUES('SP22','IFO380','Diésel','2026-04-24','');
+INSERT INTO hyp_10_subproductos_hyp VALUES('SP23','Diésel industrial','Diésel','2026-04-24','');
+INSERT INTO hyp_10_subproductos_hyp VALUES('SP24','Diésel de Ultra Bajo Azufre (DUBA)','Diésel','2026-04-24','');
+INSERT INTO hyp_10_subproductos_hyp VALUES('SP25','Diésel agrícola','Diésel','2026-04-24','');
+INSERT INTO hyp_10_subproductos_hyp VALUES('SP48','Gasóleo doméstico','Diésel','2026-04-24','');
+COMMIT;

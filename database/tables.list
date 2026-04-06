@@ -149,6 +149,9 @@ cfdi_tipos_comprobantes
 cfdi_tipos_factores
 cfdi_tipos_relaciones
 cfdi_usos_cfdi
+hyp_10_claves_hyp
+hyp_10_subproductos_hyp
+hyp_10_tipos_permisos
 nomina_bancos
 nomina_estados
 nomina_origenes_recursos
