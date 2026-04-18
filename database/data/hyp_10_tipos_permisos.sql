@@ -8,4 +8,7 @@ INSERT INTO hyp_10_tipos_permisos VALUES('PER05','Expendio en estaciones de serv
 INSERT INTO hyp_10_tipos_permisos VALUES('PER06','Comercialización','CNE/H/(N°Consecutivo)/COM/(Año)','CNE/H/[0-9]{3,20}/COM/[0-9]{4}','2026-04-24','');
 INSERT INTO hyp_10_tipos_permisos VALUES('PER07','Distribución por otros medios distintos a ducto','CNE/PL/(N°Consecutivo)/DIS/OM/(Año)','CNE/PL/[0-9]{3,16}/DIS/OM/[0-9]{4}','2026-04-24','');
 INSERT INTO hyp_10_tipos_permisos VALUES('PER08','Expendio en estaciones de servicio multimodal de petrolíferos','CNE/PL/(N°Consecutivo)/EXP/ES/MM/(Año)','CNE/PL/[0-9]{3,13}/EXP/ES/MM/[0-9]{4}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER09','Comercialización','CNE/PL/(N°Consecutivo)/COM/(Año)','CNE/PL/[0-9]{3,19}/COM/[0-9]{4}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER10','Comercialización','#[a-zA-Z0-9]','#[a-zA-Z0-9]{14}','2026-04-24','');
+INSERT INTO hyp_10_tipos_permisos VALUES('PER11','Comercialización','F00.07.UH/(N°Consecutivo)/(Año)','F00\.07\.UH/[0-9]{3,20}/[0-9]{4}','2026-04-24','');
 COMMIT;
