@@ -113,4 +113,6 @@ INSERT INTO nomina_tipos_deducciones VALUES('110','Ajuste a días de descanso ob
 INSERT INTO nomina_tipos_deducciones VALUES('111','Ajuste a días de descanso obligatorios laborados exentos','2026-01-01','');
 INSERT INTO nomina_tipos_deducciones VALUES('112','Ajuste previsión social Art 93 fracciones VIII y IX LISR gravados','2025-12-17','');
 INSERT INTO nomina_tipos_deducciones VALUES('113','Ajuste previsión social Art 93 fracciones VIII y IX LISR exentos','2025-12-17','');
+INSERT INTO nomina_tipos_deducciones VALUES('114','Ajuste a premios por concursos científicos, artísticos, literarios u otorgados por la federación Art 93 fracción XXIV LISR gravados','2026-06-12','');
+INSERT INTO nomina_tipos_deducciones VALUES('115','Ajuste a premios por concursos científicos, artísticos, literarios u otorgados por la federación Art 93 fracción XXIV LISR exentos','2026-06-12','');
 COMMIT;

@@ -47,4 +47,5 @@ INSERT INTO nomina_tipos_percepciones VALUES('053','Pagos que se realicen a extr
 INSERT INTO nomina_tipos_percepciones VALUES('054','Días de descanso laborados','2026-01-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('055','Días de descanso obligatorios laborados','2026-01-01','');
 INSERT INTO nomina_tipos_percepciones VALUES('056','Previsión social, Art 93 fracciones VIII y IX LISR','2025-12-17','');
+INSERT INTO nomina_tipos_percepciones VALUES('057','Premios por concursos científicos, artísticos, literarios u otorgados por la federación Art 93 fracción XXIV LISR','2026-06-12','');
 COMMIT;
